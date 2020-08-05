@@ -1,3 +1,7 @@
+# NOTES
+- Got an error using Docker. Use podman instead
+- Even if you set the environment variables below you still have to have a ~/.aws file created
+
 # OpenShift 4 Deploy
 
 ## Table of Contents
